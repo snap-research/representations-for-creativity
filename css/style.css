@@ -51,6 +51,10 @@ a:hover {
 
 /* Main page container */
 
+video {
+  height: 100%;
+  width: 100%;
+}
 
 .container {
 	width: 1024px;
